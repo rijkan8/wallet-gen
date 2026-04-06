@@ -10,7 +10,7 @@ A secure wallet generator for Octra blockchain.
    cd wallet-gen
    ```
 
-2. **Run the wallet generator webserver:**
+2. **Run the wallet generator webserver and support for multiple systems:**
    
    **Linux/macOS:**
    ```bash
