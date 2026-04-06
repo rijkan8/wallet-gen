@@ -31,7 +31,7 @@ A secure wallet generator for Octra blockchain.
 1. **Generate a wallet and watch the progress:**
    Click "GENERATE NEW WALLET" and watch the real-time progress
 
-2. **Wallet features:**
+2. **Wallet features will be constantly updated:**
    - View mnemonic phrase, private/public keys, and address
    - Test signature functionality
    - Derive addresses for different network types
